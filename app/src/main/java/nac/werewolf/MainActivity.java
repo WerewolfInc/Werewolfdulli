@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action Prechtiger Unterricht ein geschliffenes Juwel Ja sagen sie. Sie können nicht einfach ein Juwel in den Raum werfen!", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "Replace with your own action Prechtiger Unterricht ein geschliffenes Juwel Ja sagen sie. Sie können nicht einfach ein Juwel in den Raum werfen! Geschliffene Orchideen 5 Minuten vorher auf den Tisch!", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
         });
